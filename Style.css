@@ -1,0 +1,43 @@
+body{
+    font-family: preconnect, sans-serif;
+    margin: 0;
+    margin-top: 5%;
+}
+h1{
+    font-size: 50px;
+}
+#color{
+color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.flexible-container{
+    display: flex;
+}
+
+.half-whide{
+width: 50%;
+padding-left: 5%;
+
+}
+.half-whide img{
+    width: 80%;
+
+}
+
+#Text-spece{
+    margin-top: 5%;
+}
+#p-spece{
+    margin-bottom: 10%;
+}
+#container{
+    position: absolute;
+}
